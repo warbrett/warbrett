@@ -1,9 +1,9 @@
 
-![Some weird guy clapping](https://github.com/warbrett/warbrett/raw/master/hold-the-applause.gif)
+
 
 <!--
 **warbrett/warbrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Some weird guy clapping](https://github.com/warbrett/warbrett/raw/master/hold-the-applause.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
